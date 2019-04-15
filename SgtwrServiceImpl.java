@@ -62,7 +62,7 @@ public class SgtwrServiceImpl extends AbstractService<GgJbxx, Long> implements
 	private final String wrwlbDm_gtwr = "S";
 	private final String zsxmDm = "10121";
 	private final String jsbz1 = "0";//计税标志
-	
+	//aaa
 	@Autowired
 	SbHbsUploadMapper sbhsbuploadMapper;
 	
